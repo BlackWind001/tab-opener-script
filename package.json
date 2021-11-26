@@ -1,0 +1,14 @@
+{
+  "name": "tab-opener-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "concurrently": "^6.3.0",
+    "shelljs": "^0.8.4"
+  }
+}
